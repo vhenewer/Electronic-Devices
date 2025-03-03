@@ -29,4 +29,5 @@ This is a shopping cart system for electronic devices. The system allows users t
      - `remove_device()`: Removes a device from the cart.
      - `get_total_price()`: Returns the total price of the cart.
      - `checkout()`: Completes the purchase and prints the receipt.
-     - 
+
+![Alt Text](https://github.com/vhenewer/Electronic-Devices/blob/main/uml__diagram.png)
